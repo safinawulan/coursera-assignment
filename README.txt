@@ -1,5 +1,5 @@
 Practical Machine Learning Prediction Assignment Week 4
-Name : Vanessa Audrey Erlambang
+Name : Safina wulan
 
 Purpose: Classify the measurement from Accelerometer into 5 Different Class
 
